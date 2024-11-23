@@ -1,6 +1,6 @@
 import cv2
 import streamlit as st
-import numpy as np
+#import numpy as np
 from datetime import datetime
 
 # Charger le classificateur de visages
